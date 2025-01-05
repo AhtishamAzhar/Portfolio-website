@@ -34,7 +34,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 100vh;
+  height: 80vh;
   padding: 20px;
 }
 
@@ -83,8 +83,8 @@ body {
 }
 
 .profile-container img {
-  width: 300px; /* Increased size of the image */
-  height: 300px; /* Increased size of the image */
+  width: 350px; /* Increased size of the image */
+  height: 350px; /* Increased size of the image */
   border-radius: 50%;
   border: 5px solid #007bff;
   object-fit: cover;
