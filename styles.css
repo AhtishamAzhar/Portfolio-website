@@ -27,6 +27,11 @@ body {
     color: #00d4ff;
   }
 #name{
+  color:#007bff;
+  transition: ease-in-out ;
+  transition-duration: 0.2s;
+}
+#name:hover{
   color: #0056b3;
 }
 /* Styling for the hero section */
@@ -90,7 +95,6 @@ body {
   object-fit: cover;
 }
 
-/* Styling for stats section */
 .stats-section {
   display: flex;
   justify-content: space-around;
@@ -256,4 +260,5 @@ body {
     color: #00d4ff;
     text-decoration: none;
   }
+
   
